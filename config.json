@@ -1,0 +1,16 @@
+{
+    "_comment": "Solo se puede escoger un estado",
+    "estados": ["PUB"], 
+    
+
+    "cpvs": ["72200000","72300000"],
+
+
+    "tiempo_espera_click": {
+        "min": 3,
+        "max": 5
+    },
+
+    "max_paginas": 1,
+    "url_busqueda": "https://contrataciondelestado.es/wps/portal/licitaciones"
+}
